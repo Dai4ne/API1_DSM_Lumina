@@ -11,7 +11,7 @@
 | Dev Team | Gustavo de Oliveira Azevedo | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustaft07) |
 | Dev Team | Júlia Carolina dos Santos Inacio | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliacarolina728-sudo) |
 | Dev Team | Pamela Emily Iwabuchi Maciel | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pamelaiwabuchi) |
-| Dev Team | Vinícius de Souza | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius538) |
+| Dev Team | Vinicius de Souza | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinicius538) |
 
 ## 🦉 Professores Responsáveis
 | Função | Nome | GitHub |
