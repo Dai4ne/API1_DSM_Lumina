@@ -1,0 +1,164 @@
+{
+    "dados": [
+        {
+            "cod": null,
+            "sigla": "",
+            "nome": null,
+            "descricao": ""
+        },
+        {
+            "cod": "1",
+            "sigla": "",
+            "nome": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "descricao": ""
+        },
+        {
+            "cod": "2",
+            "sigla": "",
+            "nome": "LOCOMOÇÃO, ALIMENTAÇÃO E  HOSPEDAGEM",
+            "descricao": ""
+        },
+        {
+            "cod": "3",
+            "sigla": "",
+            "nome": "COMBUSTÍVEIS E LUBRIFICANTES.",
+            "descricao": ""
+        },
+        {
+            "cod": "4",
+            "sigla": "",
+            "nome": "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS.",
+            "descricao": ""
+        },
+        {
+            "cod": "5",
+            "sigla": "",
+            "nome": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+            "descricao": ""
+        },
+        {
+            "cod": "6",
+            "sigla": "",
+            "nome": "AQUISIÇÃO DE MATERIAL DE ESCRITÓRIO.",
+            "descricao": ""
+        },
+        {
+            "cod": "7",
+            "sigla": "",
+            "nome": "AQUISIÇÃO OU LOC. DE SOFTWARE; SERV. POSTAIS; ASS.",
+            "descricao": ""
+        },
+        {
+            "cod": "8",
+            "sigla": "",
+            "nome": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+            "descricao": ""
+        },
+        {
+            "cod": "9",
+            "sigla": "",
+            "nome": "PASSAGEM AÉREA - REEMBOLSO",
+            "descricao": ""
+        },
+        {
+            "cod": "10",
+            "sigla": "",
+            "nome": "TELEFONIA",
+            "descricao": ""
+        },
+        {
+            "cod": "11",
+            "sigla": "",
+            "nome": "SERVIÇOS POSTAIS",
+            "descricao": ""
+        },
+        {
+            "cod": "12",
+            "sigla": "",
+            "nome": "ASSINATURA DE PUBLICAÇÕES",
+            "descricao": ""
+        },
+        {
+            "cod": "13",
+            "sigla": "",
+            "nome": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+            "descricao": ""
+        },
+        {
+            "cod": "14",
+            "sigla": "",
+            "nome": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+            "descricao": ""
+        },
+        {
+            "cod": "15",
+            "sigla": "",
+            "nome": "LOCAÇÃO DE VEÍCULOS AUTOMOTORES OU FRETAMENTO DE EMBARCAÇÕES ",
+            "descricao": ""
+        },
+        {
+            "cod": "119",
+            "sigla": "",
+            "nome": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+            "descricao": ""
+        },
+        {
+            "cod": "120",
+            "sigla": "",
+            "nome": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+            "descricao": ""
+        },
+        {
+            "cod": "121",
+            "sigla": "",
+            "nome": "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES",
+            "descricao": ""
+        },
+        {
+            "cod": "122",
+            "sigla": "",
+            "nome": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+            "descricao": ""
+        },
+        {
+            "cod": "123",
+            "sigla": "",
+            "nome": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+            "descricao": ""
+        },
+        {
+            "cod": "137",
+            "sigla": "",
+            "nome": "PARTICIPAÇÃO EM CURSO, PALESTRA OU EVENTO SIMILAR",
+            "descricao": ""
+        },
+        {
+            "cod": "145",
+            "sigla": "",
+            "nome": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+            "descricao": ""
+        },
+        {
+            "cod": "998",
+            "sigla": "",
+            "nome": "PASSAGEM AÉREA - SIGEPA",
+            "descricao": ""
+        },
+        {
+            "cod": "999",
+            "sigla": "",
+            "nome": "PASSAGEM AÉREA - RPA",
+            "descricao": ""
+        }
+    ],
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/referencias/deputados/tipoDespesa"
+        },
+        {
+            "rel": "collection",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/referencias/deputados/"
+        }
+    ]
+}
